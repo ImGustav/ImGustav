@@ -1,7 +1,11 @@
-<h1 style="text-align: center">
+<h2 style="text-align: center">
   Hello World, I'm Gustav
-</h1>
+</h2>
 
 <ul>
   <li>Portifólio: [Coming soon]</li>
 </ul>
+
+<h2>
+  Tech Stack
+</h2>
