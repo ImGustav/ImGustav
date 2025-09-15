@@ -2,8 +2,17 @@
   Hello World, I'm Gustav
 </h3>
 
-<ul>
-  <li>Portifólio: [Coming soon]</li>
-</ul>
+<sub>back-end | DevOps | node</sub>
+
+<div style="
+  display: flex;
+  ">
+  <h1>
+    a
+  </h1>
+  <h1>
+    a
+  </h1>
+</div>
 
 #### Tech Stack
