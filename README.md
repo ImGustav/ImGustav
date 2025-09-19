@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </h3>
-<h2></h2>
+<img width="1438" height="167" alt="Image" src="https://github.com/user-attachments/assets/e4dcfdf6-dbaa-450c-ac5e-2b4b585d3414" />
 
 #### About me
 
