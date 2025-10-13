@@ -29,6 +29,12 @@
 [<img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker logo" />](docker.com)
 
 #### Currently Studying
-
+[<img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java logo" />]()
+[<img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring logo" />]()
+[<img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React logo" />]()
+[<img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular logo" />]()
+[<img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++ logo" />]()
+[<img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C logo" />]()
+[<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />]()
 
 #### Status
