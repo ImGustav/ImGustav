@@ -17,13 +17,18 @@
 #### About me
 
 #### Tech Stack
-<div style="display: inline_block">
-
-</div>
+[<img src="https://skillicons.dev/icons?i=nest" width="36" height="36" alt="Nest logo" />](https://nestjs.com/)
+[<img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux logo" />](linuxfoundation.org)
+[<img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript logo" />](developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript logo" />](typescriptlang.org)
+[<img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="Prisma logo" />](prisma.io)
+[<img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJs logo" />](nodejs.org)
+[<img src="https://skillicons.dev/icons?i=bun" width="36" height="36" alt="Bun logo" />](bun.sh)
+[<img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="Postgres logo" />](postgresql.org)
+[<img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman logo" />](postman.com)
+[<img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker logo" />](docker.com)
 
 #### Currently Studying
-<div style="display: inline_block">
 
-</div>
 
 #### Status
