@@ -38,7 +38,7 @@
 [<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />]()
 
 #### Stats
-<div align="center">
+<div align="center" style="margin-bottom:100px">
     <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
     <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false"/>
 </div>
