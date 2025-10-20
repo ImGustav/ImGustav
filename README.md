@@ -4,17 +4,17 @@
     </a>
     <br>
     <a href = "mailto:oakhenry2@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/gustavo-oak/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </div>
 
+#### About me
+
 <!--- Imagem servindo como divisoria -->
 <img width="1438" height="167" alt="Image" src="https://github.com/user-attachments/assets/e4dcfdf6-dbaa-450c-ac5e-2b4b585d3414" />
-
-#### About me
 
 #### Tech Stack
 [<img src="https://skillicons.dev/icons?i=nest" width="36" height="36" alt="Nest logo" />](https://nestjs.com/)
@@ -37,4 +37,8 @@
 [<img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C logo" />]()
 [<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />]()
 
-#### Status
+#### Stats
+<div align="center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+    <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false"/>
+</div>
