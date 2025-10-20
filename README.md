@@ -37,6 +37,8 @@
 [<img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C logo" />](https://www.iso.org/standard/74528.html)
 [<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />](https://www.gnu.org/software/bash/)
 
+<br>
+
 <div align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" width="420"/>
     <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false" width="420"/>
