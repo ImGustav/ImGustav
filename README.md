@@ -29,15 +29,14 @@
 [<img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker logo" />](docker.com)
 
 #### Currently Studying
-[<img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java logo" />]()
-[<img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring logo" />]()
-[<img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React logo" />]()
-[<img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular logo" />]()
-[<img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++ logo" />]()
-[<img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C logo" />]()
-[<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />]()
+[<img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java logo" />](https://www.java.com/pt-BR/)
+[<img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring logo" />](https://spring.io/)
+[<img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React logo" />](https://react.dev/)
+[<img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular logo" />](https://angular.io/)
+[<img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++ logo" />](https://isocpp.org/)
+[<img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C logo" />](https://www.iso.org/standard/74528.html)
+[<img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash logo" />](https://www.gnu.org/software/bash/)
 
-#### Stats
 <div align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" width="420"/>
     <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false" width="420"/>
