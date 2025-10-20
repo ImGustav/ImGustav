@@ -39,6 +39,6 @@
 
 #### Stats
 <div align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" width="450"/>
-    <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false" width="450"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=ImGustav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" width="420"/>
+    <img src = "https://nirzak-streak-stats.vercel.app/?user=ImGustav&theme=dark&hide_border=false" width="420"/>
 </div>
