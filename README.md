@@ -12,7 +12,6 @@
 </div>
 
 #### About me
-
 <!--- Imagem servindo como divisoria -->
 <img width="1438" height="167" alt="Image" src="https://github.com/user-attachments/assets/e4dcfdf6-dbaa-450c-ac5e-2b4b585d3414" />
 
